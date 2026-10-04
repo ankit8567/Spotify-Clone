@@ -1,0 +1,6 @@
+{
+  "name": "Spotify - Web Player & Premium Experience",
+  "description": "Stream millions of songs, create playlists, enjoy offline playback, Hi-Fi lossless streaming, and multi-device Spotify Connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
